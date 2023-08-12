@@ -78,7 +78,7 @@ git add CheckList.txt
 git commit -m "add ChekList"
 git push
 
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main.
 
 1. Нажать кнопку "Compare & pull request"
 2. Нажать "create pull request"

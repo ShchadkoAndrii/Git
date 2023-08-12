@@ -1,1 +1,2 @@
-![image](https://github.com/ShchadkoAndrii/Terminal/assets/118735059/80751e40-3613-46f8-9518-de7d64a75bd7)
+![image](https://github.com/ShchadkoAndrii/Git/assets/118735059/04a8d2df-0b8b-49cd-b18f-21b94f272e40)
+

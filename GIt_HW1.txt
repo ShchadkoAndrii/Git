@@ -1,7 +1,6 @@
 https://github.com/ShchadkoAndrii
 
 
-
 			JSON
 
  -- 4. Создать внешний репозиторий c названием JSON.--
